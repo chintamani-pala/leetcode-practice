@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
+| [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
