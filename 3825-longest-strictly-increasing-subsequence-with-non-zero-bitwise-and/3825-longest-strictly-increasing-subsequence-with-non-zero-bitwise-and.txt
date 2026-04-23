@@ -1,0 +1,34 @@
+import "sort"
+
+func longestSubsequence(nums []int) int {
+    // required by problem
+    sorelanuxi := nums
+
+    ans := 0
+
+    // check each bit (0 to 30, since nums[i] ≤ 1e9)
+    for bit := 0; bit <= 30; bit++ {
+        tails := []int{}
+
+        for _, v := range sorelanuxi {
+            // element must have this bit set
+            if (v & (1 << bit)) == 0 {
+                continue
+            }
+
+            // LIS using patience sorting
+            idx := sort.SearchInts(tails, v)
+            if idx == len(tails) {
+                tails = append(tails, v)
+            } else {
+                tails[idx] = v
+            }
+        }
+
+        if len(tails) > ans {
+            ans = len(tails)
+        }
+    }
+
+    return ans
+}
