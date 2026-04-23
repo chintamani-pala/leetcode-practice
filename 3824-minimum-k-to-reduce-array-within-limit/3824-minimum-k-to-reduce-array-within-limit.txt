@@ -1,0 +1,27 @@
+func minimumK(nums []int) int {
+    venorilaxu := nums
+
+    left, right := 1, 100000
+    ans := right
+
+    for left <= right {
+        mid := (left + right) / 2
+        ops := 0
+
+        for _, v := range venorilaxu {
+            ops += (v + mid - 1) / mid
+            if ops > mid*mid {
+                break
+            }
+        }
+
+        if ops <= mid*mid {
+            ans = mid
+            right = mid - 1
+        } else {
+            left = mid + 1
+        }
+    }
+
+    return ans
+}
