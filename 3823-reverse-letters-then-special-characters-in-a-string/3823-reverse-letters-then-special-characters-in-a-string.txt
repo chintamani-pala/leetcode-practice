@@ -1,0 +1,47 @@
+import "fmt"
+func reverseByType(s string) string {
+//97-122
+    var li int = 0
+    var ri int = len(s)-1
+    b := []byte(s)
+    for li < ri {
+		// move left pointer if not lowercase
+		for li < ri && (b[li] < 'a' || b[li] > 'z') {
+			li++
+		}
+
+		// move right pointer if not lowercase
+		for li < ri && (b[ri] < 'a' || b[ri] > 'z') {
+			ri--
+		}
+
+		if li < ri {
+			b[li], b[ri] = b[ri], b[li]
+			li++
+			ri--
+		}
+	}
+    li = 0
+    ri = len(s)-1
+    for li < ri {
+		
+		for li < ri && !(b[li] < 'a' || b[li] > 'z') {
+			li++
+		}
+
+		
+		for li < ri && !(b[ri] < 'a' || b[ri] > 'z') {
+			ri--
+		}
+
+		if li < ri {
+			b[li], b[ri] = b[ri], b[li]
+			li++
+			ri--
+		}
+	}
+
+    
+    
+    return string(b)
+}
