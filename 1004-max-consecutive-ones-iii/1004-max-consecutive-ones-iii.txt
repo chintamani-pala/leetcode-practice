@@ -1,0 +1,20 @@
+func longestOnes(nums []int, k int) int {
+    left := 0
+    
+    maxLength := -1
+
+    for right:=0; right<len(nums); right++ {
+        if nums[right] == 0 {
+            k--
+        }
+
+        for k == -1 {
+            if nums[left] == 0 {
+                k++
+            }
+            left++
+        }
+        maxLength = max(maxLength, right - left)
+    }
+    return maxLength + 1
+}
