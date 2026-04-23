@@ -1,46 +1,49 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def sortList(self, head):
-        """
-        :type head: Optional[ListNode]
-        :rtype: Optional[ListNode]
-        """
-        if not head or not head.next:
-            return head
-        ##time complexity O(n^2)
-        #space complexity O(1)
-        # count = 1
-        # curr = head
-        # while curr.next is not None:
-        #     curr = curr.next
-        #     count += 1
-        # while count>0:
-        #     first = head
-        #     second = head.next
-        #     while second:
-        #         if first.val>second.val:
-        #             first.val, second.val = second.val, first.val
-        #         first = first.next
-        #         second = second.next
-        #     count-=1
-        # return head
+class Solution:
+    def mergeTwoLists(self, h1: Optional[ListNode], h2: Optional[ListNode]) -> Optional[ListNode]:
+        if h1 is None and h2 is not None:
+            return h2
+        if h2 is None and h1 is not None:
+            return h1
+        if h1 is None and h2 is None:
+            return h1
+        if h1.val < h2.val:
+            head = h1
+            h1 = h1.next
+        else:
+            head = h2
+            h2 = h2.next
+        curr = head
 
-        arr = []
-        curr = head
-        while curr:
-            arr.append(curr.val)
+        while h1 is not None and h2 is not None:
+            if h1.val<h2.val:
+                curr.next = h1
+                h1 = h1.next
+            else:
+                curr.next = h2
+                h2 = h2.next
             curr = curr.next
-        arr.sort()
-        curr = head
-        index = 0
-        while curr:
-            curr.val = arr[index]
-            index+=1
-            curr = curr.next
+        if h1 is None:
+            curr.next = h2
+        if h2 is None:
+            curr.next = h1
         return head
-
-
+    def sort(self, head):
+        if head is None or head.next is None:
+            return head
+        slow = head
+        fast = head
+        while fast is not None and fast.next is not None and fast.next.next is not None:
+            slow = slow.next
+            fast = fast.next.next
+        nextSlow = slow.next
+        slow.next = None
+        left = self.sort(head)
+        right = self.sort(nextSlow)
+        return self.mergeTwoLists(left, right)
+    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        return self.sort(head)
