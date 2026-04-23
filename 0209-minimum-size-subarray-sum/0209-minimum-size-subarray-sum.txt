@@ -1,0 +1,21 @@
+func minSubArrayLen(target int, nums []int) int {
+    left := 0
+    length := len(nums)
+    result := length
+    cs := 0
+    t_sum := 0
+    for right:=0; right<length; right++ {
+        cs  += nums[right]
+        t_sum += nums[right]
+        for cs >= target && left<length{
+            result = min(result, right-left + 1)
+            cs -= nums[left]
+            left++
+        }
+        
+    }
+    if t_sum >= target{
+        return result
+    }
+    return 0
+}
