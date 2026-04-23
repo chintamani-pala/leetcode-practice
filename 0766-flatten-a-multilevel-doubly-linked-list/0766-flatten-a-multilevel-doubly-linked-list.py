@@ -9,9 +9,11 @@ class Node:
 """
 
 class Solution:
-    def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
+    def flattenLL(self, head: 'Optional[Node]') -> 'Optional[Node]':
         curr = head
+        prev = None
         while curr:
+            prev = curr
             if curr.child:
                 nextNode = curr.next
                 if nextNode:
@@ -22,16 +24,21 @@ class Solution:
                 curr.child = None
                 nextChild.prev = curr
                 curr = curr.next
-                newHead = self.flatten(curr)
-                temp = newHead
-                while temp.next is not None:
-                    temp = temp.next
-                temp.next = nextNode
+                child_tail, child_head = self.flattenLL(curr)
+                
+                # temp = newHead[0]
+                # while temp.next is not None:
+                #     temp = temp.next
+                if child_tail:
+                    child_tail.next = nextNode
                 if nextNode:
-                    nextNode.prev = temp
-                curr = nextNode
+                    nextNode.prev = child_tail
+                if nextNode:
+                    curr = nextNode
             else:
                 curr = curr.next
 
-        return head
+        return prev, head
+    def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        return self.flattenLL(head)[1]
 
