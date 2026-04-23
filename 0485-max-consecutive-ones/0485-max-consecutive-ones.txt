@@ -1,0 +1,14 @@
+import "fmt"
+func findMaxConsecutiveOnes(nums []int) int {
+    maxCount := 0
+    count := 0
+    for _, item := range nums {
+        if item != 1 {
+            count = 0
+            continue
+        }
+        count += 1 
+        maxCount = max(maxCount, count)
+    }
+    return max(maxCount, count)
+}
