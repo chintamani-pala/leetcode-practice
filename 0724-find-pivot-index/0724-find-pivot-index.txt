@@ -1,0 +1,24 @@
+func pivotIndex(nums []int) int {
+    sumLeft := make([]int, len(nums))
+    sumRight  := make([]int, len(nums))
+
+    for i:=0;i<len(nums);i++{
+        if i == 0 {
+            sumLeft[i] = nums[i]
+            sumRight[len(nums)-1-i] = nums[len(nums)-1-i]
+        }else{
+            sumLeft[i] =  sumLeft[i-1] + nums[i]
+            sumRight[len(nums)-1-i] = sumRight[len(nums)-i]+nums[len(nums)-1-i]
+        }
+    }
+
+    for i:=0; i<len(nums);i++ {
+        if sumLeft[i] == sumRight[i] {
+            return i
+        }
+    }
+
+    return -1
+
+    
+}
