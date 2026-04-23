@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
