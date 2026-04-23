@@ -1,0 +1,16 @@
+func maxArea(height []int) int {
+    low := 0
+    high := len(height) - 1
+    result := 0
+    for low < high {
+        maxHeight := min(height[low], height[high])
+        maxWater := maxHeight * (high - low)
+        result = max(result, maxWater)
+        if height[low] <= height[high] {
+            low++
+        }else {
+            high--
+        }
+    }
+    return result
+}
