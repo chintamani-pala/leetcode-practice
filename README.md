@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
 ## Trie
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Counting
+|  |
+| ------- |
+| [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
