@@ -1,10 +1,11 @@
 class Solution:
     def minBitFlips(self, start: int, goal: int) -> int:
-        xor_result = start ^ goal
+        #to identify how many bits are changed
+        xor = start ^ goal
         ans = 0
-        
-        while xor_result > 0:
-            ans += xor_result & 1  
-            xor_result >>= 1     
-        
+
+        #Counting number of set bits
+        while xor > 0:
+            ans += xor & 1
+            xor >>= 1
         return ans
