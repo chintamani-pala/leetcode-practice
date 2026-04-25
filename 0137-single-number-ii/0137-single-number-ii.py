@@ -12,8 +12,16 @@ class Solution:
         # return ans
 
         #use sort and move pointer 
-        nums.sort()
-        for pointer in range(1, len(nums), 3):
-            if nums[pointer] != nums[pointer-1]:
-                return nums[pointer-1]
-        return nums[-1]
+        # nums.sort()
+        # for pointer in range(1, len(nums), 3):
+        #     if nums[pointer] != nums[pointer-1]:
+        #         return nums[pointer-1]
+        # return nums[-1]
+
+        #bit wise with more indepth intution
+        once = 0
+        twos = 0
+        for i in range(len(nums)):
+            once =  (once ^ nums[i]) & ~twos
+            twos = (twos ^ nums[i]) & ~once
+        return once 
