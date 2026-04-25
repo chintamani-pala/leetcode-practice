@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Merge Sort
 |  |
 | ------- |
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Math
+|  |
+| ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Binary Search
+|  |
+| ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Geometry
+|  |
+| ------- |
+| [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
