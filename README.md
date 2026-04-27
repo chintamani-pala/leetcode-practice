@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
+| [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0137-single-number-ii) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
