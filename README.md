@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0137-single-number-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Merge Sort
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0801-is-graph-bipartite) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
