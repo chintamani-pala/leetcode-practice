@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0801-is-graph-bipartite](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+## Graph Theory
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
