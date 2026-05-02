@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0396-rotate-function](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0396-rotate-function) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
+| [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Prefix Sum
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0396-rotate-function](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0396-rotate-function) |
 | [0728-self-dividing-numbers](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0728-self-dividing-numbers) |
+| [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
