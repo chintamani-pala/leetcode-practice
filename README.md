@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 ## Depth-First Search
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0812-rotate-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
 ## Bit Manipulation
 |  |
