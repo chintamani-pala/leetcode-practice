@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0812-rotate-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
