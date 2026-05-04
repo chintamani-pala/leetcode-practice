@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0137-single-number-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0733-flood-fill) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0396-rotate-function) |
 | [0728-self-dividing-numbers](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0728-self-dividing-numbers) |
 | [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
