@@ -1,24 +1,21 @@
-class Solution(object):
-    def reverse(self, i, matrix):
-        left = 0
-        right = len(matrix[i]) - 1
-        while( left < right ):
-            matrix[i][left], matrix[i][right] = matrix[i][right], matrix[i][left]
-            left += 1
-            right -= 1
+class Solution:
+    def reverse(self, matrix, index):
+        i= 0 
+        j = len(matrix[index])-1
+        while i<=j:
+            matrix[index][j],  matrix[index][i] = matrix[index][i], matrix[index][j]
+            i+=1
+            j-=1
         
-
-    def rotate(self, matrix):
+    def rotate(self, matrix: List[List[int]]) -> None:
         """
-        :type matrix: List[List[int]]
-        :rtype: None Do not return anything, modify matrix in-place instead.
+        Do not return anything, modify matrix in-place instead.
         """
-        length = len(matrix)
-        for i in range(length - 1):
-            for j in range(i+1, length):
-                matrix[i][j], matrix[j][i] =  matrix[j][i], matrix[i][j]
-        for i in range(length):
-            self.reverse(i, matrix)
-        return matrix
-
-        
+        n = len(matrix)
+        for i in range(n):
+            for j in range(i+1, n):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+        print(matrix)
+        for i in range(n):
+            self.reverse(matrix, i)
+        return matrix 
