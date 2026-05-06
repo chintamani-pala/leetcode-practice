@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1972-rotating-the-box](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1972-rotating-the-box](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+| [1972-rotating-the-box](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1972-rotating-the-box) |
 ## Divide and Conquer
 |  |
 | ------- |
