@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3981-jump-game-ix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
+| [3981-jump-game-ix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 |  |
