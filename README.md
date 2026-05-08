@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3981-jump-game-ix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1073-number-of-enclaves](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1073-number-of-enclaves) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1663-detect-cycles-in-2d-grid) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
