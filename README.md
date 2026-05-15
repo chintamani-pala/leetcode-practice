@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Geometry
 |  |
