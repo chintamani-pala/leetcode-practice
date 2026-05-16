@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2639-separate-the-digits-in-an-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Merge Sort
 |  |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2043-cyclically-rotating-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2639-separate-the-digits-in-an-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2639-separate-the-digits-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
