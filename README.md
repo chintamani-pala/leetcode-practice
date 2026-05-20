@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2639-separate-the-digits-in-an-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0461-hamming-distance](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
