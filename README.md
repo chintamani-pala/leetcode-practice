@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
@@ -106,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
