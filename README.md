@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0136-single-number) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
