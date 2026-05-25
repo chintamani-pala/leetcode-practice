@@ -1,35 +1,20 @@
 from collections import deque
 
 class Solution:
-    #not solved by me
     def canReach(self, s: str, minJump: int, maxJump: int) -> bool:
-
         n = len(s)
+        t = [0]*n
+        #t[i] > 0: possible to reach i
+        ## == 0: not possible to reach i
+        t[0] = 1
+        count = 0
+        for j in range(1, n):
+            if j-minJump >= 0:
+                count += t[j-minJump]
+            if j-maxJump-1 >= 0:
+                count -= t[j-maxJump-1]
+            
+            if count > 0 and s[j] == '0':
+                t[j] = 1
+        return t[n-1]>0 
 
-        q = deque([0])
-
-        vis = [0] * n
-        vis[0] = 1
-
-        further = 0
-
-        while q:
-
-            idx = q.popleft()
-
-            if idx == n - 1:
-                return True
-
-            l = max(further + 1, idx + minJump)
-            r = min(idx + maxJump, n - 1)
-
-            for k in range(l, r + 1):
-
-                if s[k] == '0' and not vis[k]:
-
-                    vis[k] = 1
-                    q.append(k)
-
-            further = max(further, r)
-
-        return False
