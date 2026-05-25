@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0812-rotate-string) |
+| [2001-jump-game-vii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2001-jump-game-vii) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
 | [1466-jump-game-v](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1466-jump-game-v) |
+| [2001-jump-game-vii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2001-jump-game-vii) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3981-jump-game-ix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3981-jump-game-ix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [2001-jump-game-vii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2001-jump-game-vii) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->
