@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3376-longest-common-suffix-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -113,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3376-longest-common-suffix-queries) |
 ## Trie
 |  |
 | ------- |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3376-longest-common-suffix-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
