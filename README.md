@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3376-longest-common-suffix-queries) |
+| [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Geometry
 |  |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2001-jump-game-vii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2001-jump-game-vii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
