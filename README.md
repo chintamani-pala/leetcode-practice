@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2043-cyclically-rotating-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2639-separate-the-digits-in-an-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1447-jump-game-iv](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1447-jump-game-iv) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Data Stream
 |  |
 | ------- |
