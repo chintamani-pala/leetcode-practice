@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2043-cyclically-rotating-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2639-separate-the-digits-in-an-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2639-separate-the-digits-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
 | [1972-rotating-the-box](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1972-rotating-the-box) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2043-cyclically-rotating-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2043-cyclically-rotating-a-grid) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2639-separate-the-digits-in-an-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2639-separate-the-digits-in-an-array) |
 ## Enumeration
 |  |
