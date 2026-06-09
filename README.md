@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3981-jump-game-ix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3981-jump-game-ix) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4005-maximum-total-subarray-value-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [4005-maximum-total-subarray-value-i](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Tree
 |  |
 | ------- |
