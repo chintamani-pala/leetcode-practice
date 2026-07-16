@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0119-pascals-triangle-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
 | [1972-rotating-the-box](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1466-jump-game-v](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1466-jump-game-v) |
