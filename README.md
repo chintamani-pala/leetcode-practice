@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0542-01-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [1447-jump-game-iv](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1447-jump-game-iv) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1466-jump-game-v](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1466-jump-game-v) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
 ## Bit Manipulation
