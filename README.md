@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3376-longest-common-suffix-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3376-longest-common-suffix-queries) |
 | [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3981-jump-game-ix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3981-jump-game-ix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Depth-First Search
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2240-intervals-between-identical-elements](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2721-sum-of-distances) |
 | [3470-maximum-score-from-grid-operations](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3470-maximum-score-from-grid-operations) |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0383-ransom-note) |
 | [3019-furthest-point-from-origin](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3019-furthest-point-from-origin) |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0728-self-dividing-numbers) |
 | [0804-rotated-digits](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0804-rotated-digits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search
@@ -236,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3781-maximize-the-distance-between-points-on-a-square](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3781-maximize-the-distance-between-points-on-a-square) |
 ## Geometry
 |  |
@@ -284,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Simulation
 |  |
@@ -307,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3435-block-placement-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/chintamani-pala/leetcode-dsa-practice/tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
